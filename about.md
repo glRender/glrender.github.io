@@ -11,10 +11,9 @@ The result of development must be visual 3d editor of Kochanek–Bartels splines
 
 ### More Information
 
-The repo with library named glRender.
-
-The repo qtApp - example of using glRender in Qt application.
-The repo qtGlut - example of using glRender in GLUT application.
+* The repo with library named glRender.
+* The repo qtApp - example of using glRender in Qt application.
+* The repo qtGlut - example of using glRender in GLUT application.
 
 ### Contact me
 
