@@ -10,12 +10,7 @@ The main target it's geting experience with 3d computer graphics.
 
 The result of development must be visual 3d editor of Kochanek–Bartels splines.
 
-### More Information
-
-* The repo with library named glRender.
-* The repo qtApp - example of using glRender in Qt application.
-* The repo qtGlut - example of using glRender in GLUT application.
-
+### Build
 To run build you must have python2.7, pip2 and scenarist.py.
 
 To install scenarist.py run:
@@ -24,7 +19,7 @@ To install scenarist.py run:
 ```
 To build run:
 ```bash
-$ scenarist.py run install_deps build
+$ scenarist.py run default
 ```
 
 ### Last release status
