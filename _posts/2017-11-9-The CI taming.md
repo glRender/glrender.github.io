@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CI tuning, Docker, Jenkins
+title: The CI "taming", Docker, Jenkins
 comments: true
 ---
 I workaround on JENKINS CI and Docker. I want provide automatics builds for a couple platforms: Ubuntu 16.04, Astralinux (1.10, 1.11, 1.11.9) and Windows 10 (MinGW)).
