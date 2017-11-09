@@ -14,13 +14,13 @@ The result of development must be visual 3d editor of Kochanek–Bartels splines
 To run build you must have python2.7, pip2 and scenarist.py.
 
 To install scenarist.py run:
-`
+```bash
 # pip2 install build_scenarist
-`
+```
 To build run:
-`
+```bash
 $ scenarist.py run default
-`
+```
 
 ### Last release status
 
