@@ -4,9 +4,9 @@ layout: default
 
 <article class="post">
   <h1>{{ page.title }}</h1>
-  <img src={{ page.image }}</img>
 
   <div class="entry">
+    <img src="{{ post.image || post_thumbnail }}" alt="Thumbnail image for the post '{{ post.title }}'"></a>
     {{ content }}
   </div>
 
@@ -14,5 +14,5 @@ layout: default
     Written on {{ page.date | date: "%B %e, %Y" }}
   </div>
 
-  {% include disqus.html %}
+  {{ include disqus.html }}
 </article>
