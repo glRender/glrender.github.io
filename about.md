@@ -23,11 +23,11 @@ $ scenarist.py run default
 
 ### Last release status
 
-[![Build Status](http://sogimu.fvds.ru:8080/buildStatus/icon?job=glRender/Release/Linux/Ubuntu_16.04)](http://sogimu.fvds.ru:8080/job/glRender/job/Release/job/Linux/job/Ubuntu_16.04/) Ubuntu 16.04. LAST BUILD: [glRender-0.10.4-Linux.deb](http://sogimu.fvds.ru/glRender/ubuntu_16.04/glRender-0.10.4-Linux.deb)
+[![Build Status](http://sogimu.fvds.ru:8080/buildStatus/icon?job=glRender/Release/Linux/Ubuntu_16.04)](http://sogimu.fvds.ru:8080/job/glRender/job/Release/job/Linux/job/Ubuntu_16.04/) Ubuntu 16.04. LAST BUILD: [glRender-0.11.1-Linux.deb](http://sogimu.fvds.ru/glRender/ubuntu_16.04/glRender-0.11.1-Linux.deb)
 
-[![Build Status](http://sogimu.fvds.ru:8080/buildStatus/icon?job=glRender/Release/Linux/Astralinux_1.11.9)](http://sogimu.fvds.ru:8080/job/glRender/job/Release/job/Linux/job/Astralinux_1.11.9/) Astralinux 1.11.9. LAST BUILD: [glRender-0.10.4-Linux.deb](http://sogimu.fvds.ru/glRender/astralinux-1.11.9/glRender-0.10.4-Linux.deb)
+[![Build Status](http://sogimu.fvds.ru:8080/buildStatus/icon?job=glRender/Release/Linux/Astralinux_1.11.9)](http://sogimu.fvds.ru:8080/job/glRender/job/Release/job/Linux/job/Astralinux_1.11.9/) Astralinux 1.11.9. LAST BUILD: [glRender-0.11.1-Linux.deb](http://sogimu.fvds.ru/glRender/astralinux-1.11.9/glRender-0.11.1-Linux.deb)
 
-[![Build Status](http://sogimu.fvds.ru:8080/buildStatus/icon?job=glRender/Release/Windows/Windows_10_MinGW64)](http://sogimu.fvds.ru:8080/job/glRender/job/Release/job/Windows/job/Windows_10_MinGW64/) Windows 10 MinGW64. LAST BUILD: [glRender-0.10.4-win64.exe](http://sogimu.fvds.ru/glRender/Windows10_MSYS2_MINGW64/glRender-0.10.4-win64.exe)
+[![Build Status](http://sogimu.fvds.ru:8080/buildStatus/icon?job=glRender/Release/Windows/Windows_10_MinGW64)](http://sogimu.fvds.ru:8080/job/glRender/job/Release/job/Windows/job/Windows_10_MinGW64/) Windows 10 MinGW64. LAST BUILD: [glRender-0.11.1-win64.exe](http://sogimu.fvds.ru/glRender/Windows10_MSYS2_MINGW64/glRender-0.11.1-win64.exe)
 
 ### Last master commit status
 
